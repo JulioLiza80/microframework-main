@@ -15,10 +15,12 @@ $config->set('viewsFolder', 'views/');
 //$config->set('dbpass', '');
 
 
-$config->set('dbhost', 'containers-us-west-136.railway.app:6879');
+$config->set('dbhost', 'roundhouse.proxy.rlwy.net:30813');
 $config->set('dbname', 'railway');
 $config->set('dbuser', 'root');
-$config->set('dbpass', 'W1EYqlKJ1Sv9q75o0XlN');
+$config->set('dbpass', '1152HGedEAhG3cEcFGABDAd-1B1dC61G');
 
 //mysql://root:MReAICGr5qPiqK6JHE9C@containers-us-west-179.railway.app:5845/railway
+//mysql://root:1152HGedEAhG3cEcFGABDAd-1B1dC61G@roundhouse.proxy.rlwy.net:30813/railway
+//1152HGedEAhG3cEcFGABDAd-1B1dC61G
 ?>
