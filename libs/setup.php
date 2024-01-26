@@ -15,7 +15,7 @@ $config->set('viewsFolder', 'views/');
 //$config->set('dbpass', '');
 
 
-$config->set('dbhost', 'mysql://root:1152HGedEAhG3cEcFGABDAd-1B1dC61G@roundhouse.proxy.rlwy.net:30813/railway');
+$config->set('dbhost', 'roundhouse.proxy.rlwy.net:30813');
 $config->set('dbname', 'railway');
 $config->set('dbuser', 'root');
 $config->set('dbpass', '1152HGedEAhG3cEcFGABDAd-1B1dC61G');
