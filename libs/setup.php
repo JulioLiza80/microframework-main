@@ -15,11 +15,12 @@ $config->set('viewsFolder', 'views/');
 //$config->set('dbpass', '');
 
 
-$config->set('dbhost', 'mysql://root:1152HGedEAhG3cEcFGABDAd-1B1dC61G@roundhouse.proxy.rlwy.net:30813/railway');
+$config->set('dbhost', 'viaduct.proxy.rlwy.net');
 $config->set('dbname', 'railway');
 $config->set('dbuser', 'root');
 $config->set('dbpass', 'HcB4gF2AaB5d6Cabc6-2bDBEFB1dhdFG');
 
 //HcB4gF2AaB5d6Cabc6-2bDBEFB1dhdFG
 //mysql://root:1152HGedEAhG3cEcFGABDAd-1B1dC61G@roundhouse.proxy.rlwy.net:30813/railway
+//viaduct.proxy.rlwy.net
 ?>
